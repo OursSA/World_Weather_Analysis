@@ -11,4 +11,4 @@ Lastly, a set of cities within one country (in this case, Japan) was chosen. The
 The finished deliverables are held in three folders within this repository.
 - [The weather database](Weather_database) holds the retrieved city names and weather data for each pair of coordinates that was generated.
 - [The vacation search folder](Vacation_search) holds the code for searching based on a range of temperatures, and an example of the output map of hotels with informational pins.
-- [The vacation itinerary folder](Vacation_itinerary) holds the code for, and an example of, a travel itinerary generated from a group of four cities.
+- [The vacation itinerary folder](Vacation_Itinerary) holds the code for, and an example of, a travel itinerary generated from a group of four cities.
