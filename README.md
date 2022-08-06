@@ -9,6 +9,6 @@ Lastly, a set of cities within one country (in this case, Japan) was chosen. The
 
 ## Deliverables for Challenge
 The finished deliverables are held in three folders within this repository.
-- Weather_database holds the retrieved city names and weather data for each pair of coordinates that was generated.
+- [Weather_database](main/Weather_database) holds the retrieved city names and weather data for each pair of coordinates that was generated.
 - Vacation_search holds the code for searching based on a range of temperatures, and an example of the output map of hotels with informational pins.
 - Vacation_itinerary holds the code for, and an example of, a travel itinerary generated from a group of four cities.
